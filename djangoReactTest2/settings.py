@@ -137,8 +137,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
 MEDIA_URL = 'img/'
 MEDIA_ROOT = BASE_DIR/'media'
 
-# pip install -r requirements.txt
-# python3.9 manage.py collectstatic
+
 
 
 
